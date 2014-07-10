@@ -11,7 +11,7 @@ Download and place 'banner.php' inside:
 /fuel/app/views/inc/
 ```
 
-Using
+Usage
 =====
 
 Once installed, simply include the file:
