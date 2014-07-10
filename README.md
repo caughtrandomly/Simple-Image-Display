@@ -23,6 +23,21 @@ Then watch the magic work straight away!
 
 This plugin is used to work out of the box with [zRS Slider!](https://github.com/WsCandy/zRSv2)
 
+Example
+=======
+
+HTML:
+```
+<section class="banner">
+	<?= render('inc/banner'); ?>
+</section>
+```
+
+jQuery:
+```
+$('.banner').zRS();
+```
+
 Structure
 =========
 
