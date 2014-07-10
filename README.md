@@ -21,7 +21,7 @@ Once installed, simply include the file:
 
 Then watch the magic work straight away!
 
-This plugin is used to work out of the box with zRS Slider!
+This plugin is used to work out of the box with [zRS Slider!](https://github.com/WsCandy/zRSv2)
 
 Structure
 =========
